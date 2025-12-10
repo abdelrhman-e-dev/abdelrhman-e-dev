@@ -13,15 +13,16 @@
     Hands-on experience delivering robust backend systems, optimized databases, and modern frontend interfaces with maintainability and performance as core principles.
   </p>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/abdelrhman-e-dev" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-    </a>
-        <a href="https://wa.me/+201028492181" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="linkedin logo" />
-    </a>
+<div align="center" dir="auto">
 
-  </div>
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=AbdelrhmanEssam74&label=Visitors&countColor=%23263759)
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/abdelrhmanessam74/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="mailto:abdelrhmanroshdy8@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://wa.me/+201028492181" rel="nofollow">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+</div>
+
 
 </div>
 
