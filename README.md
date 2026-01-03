@@ -42,14 +42,20 @@
 </div>
 
 ###
+<div align="center" >
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdelrhman-e-dev&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
+###
 
 <div align="center" dir="auto">
-
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=AbdelrhmanEssam74&label=Visitors&countColor=%23263759)
-  <br/>
+  
   <a href="https://www.linkedin.com/in/abdelrhmanessam74/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="mailto:abdelrhmanroshdy8@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://wa.me/+201028492181" rel="nofollow">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+  
 </div>
 
 
