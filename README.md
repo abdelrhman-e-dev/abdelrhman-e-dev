@@ -42,13 +42,6 @@
 </div>
 
 ###
-<div align="center" >
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelrhman-e-dev&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
-###
 
 <div align="center" dir="auto">
   
