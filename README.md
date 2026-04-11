@@ -84,19 +84,26 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
 
 ## `$ git stats --global`
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-e-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-e-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdelrhman-e-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=ff6b6b&currStreakLabel=4FC3F7)
-
-</div>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=abdelrhman-e-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=ff6b6b&currStreakLabel=4FC3F7" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrhman-e-dev&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdelrhman-e-dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    </td>
+    <td align="center">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-e-dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    </td>
+  </tr>
+</table>
 
 > 💡 *Stats are powered by third-party Vercel-hosted services — they render correctly on GitHub profile pages.*
 
