@@ -2,12 +2,12 @@
 
 <!-- Header Banner - uses svg instead of capsule-render to avoid external service failures -->
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=80&lines=Abdelrhman+Essam+%E2%80%94+Back-End+Developer" alt="Abdelrhman Essam — Back-End Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=80&lines=Abdelrhman+Essam+%E2%80%94+Software+Engineer" alt="Abdelrhman Essam — Software Engineer"/>
 </picture>
  
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&lines=Back-End+Developer+%7C+Laravel+%26+PHP;Building+secure+%26+scalable+RESTful+APIs;Full+Stack+%3A+Angular+%2B+Laravel+%2B+Node.js;ITI+Government+Scholarship+Graduate;Clean+Code+%7C+Maintainable+Systems+%7C+Real-World+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&lines=Softwared+Engineer+%7C+Laravel+%26+PHP;Building+secure+%26+scalable+RESTful+APIs;Full+Stack+%3A+Angular+%2B+Laravel+%2B+Node.js;ITI+Government+Scholarship+Graduate;Clean+Code+%7C+Maintainable+Systems+%7C+Real-World+Apps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ```bash
 > name           : Abdelrhman Essam
-> role           : Back-End Developer  (Laravel & PHP)
+> role           : Software Engineer
 > location       : Beni-Suef, Egypt 🇪🇬
 > education      : BSc Computer Science — Beni-Suef University  (2024)
 > current        : Web Developer @ Business Spike  (Nov 2025 – Present)
